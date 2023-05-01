@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+## Open Source Projects
+
+***
+- [SCC Findings to Pub/Sub](https://github.com/gschaeffer/scc-findings-to-pubsub) provides an example for moving Google Cloud Security Command Center (SCC) Findings to a Pub/Sub queue. 
+- [SCC Slack Messages](https://github.com/gschaeffer/scc-slack-messages) is an example on sending Google Security Command Center findings from a Pub/Sub queue to a Slack application channel.
+- https://github.com/gschaeffer/google-idp
+- https://github.com/gschaeffer/gcp-terraform-org-structure
 <!--
 **gschaeffer/gschaeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
